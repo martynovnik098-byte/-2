@@ -31,3 +31,15 @@
 Для Задания 1.1: Введите три числа (целые или дробные) для сторон треугольника.
 Для Задания 1.2: Выберите исходную и целевую единицы измерения и введите значение для конвертации.
 Для Задания 1.3: Введите год, который вы хотите проверить.
+
+# Результаты тестирования
+
+Тест 1
+<img width="563" height="204" alt="image" src="https://github.com/user-attachments/assets/b2f07897-d80f-42c3-a6d0-ba94629d54e6" />
+
+Тест 2
+<img width="606" height="270" alt="image" src="https://github.com/user-attachments/assets/6b1a4df7-7351-40e3-91d8-e166f373d101" />
+
+Тест 3
+<img width="365" height="112" alt="image" src="https://github.com/user-attachments/assets/c144813b-ffbe-40fb-af75-8dd060a7ee6d" />
+
